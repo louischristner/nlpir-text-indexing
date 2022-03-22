@@ -15,6 +15,6 @@ To process scripts and generate graphics.
 python sources/graph_generator.py crime_movies thriller_movies
 ```
 
-## Sources
+## Resources
 
 https://github.com/stopwords-iso/stopwords-en/blob/master/stopwords-en.txt
